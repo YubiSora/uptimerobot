@@ -1,7 +1,7 @@
 {
-  "name": "hello-sqlite",
+  "name": "OrcinusMusic",
   "version": "0.0.1",
-  "description": "A simple Node app with SQLite as a database management system, instantly up and running.",
+  "description": "Just Playing Music",
   "main": "server.js",
   "scripts": {
     "start": "node index.js"
